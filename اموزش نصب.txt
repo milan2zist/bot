@@ -1,0 +1,12 @@
+اموزش نصب توسط
+@Alon3ForEver
+خب اول توی Shop.php
+توکن و ایدی کانالتون رو بزارید
+سرچ کنید:
+توکن
+ایدی کانال
+براتون میاد که کجاها بزارید.
+بعد وارد
+Data/adminlist.txt
+شوید و ایدی خودتون رو بزارید و بعد هم وبهوک:
+api.telegram.org/botTOKEN/setWebhook?url=Address
